@@ -2,18 +2,21 @@
   <img src="./images/banner.png" alt="banner yosusanz" width="846" />
 </a>
 
+<h1 style="
+    font-size: 2.4rem;
+    font-weight: 600;
+    line-height: 1.25;
+    overflow-wrap: break-word !important;
+    word-wrap: break-word !important;
+    word-break: break-word !important;
+    vertical-align: middle !important;
+    display: inline !important;">Yosu Sanz Iriarte</h1>
+<h2 style="
+    font-size: 1.6rem;
+    font-weight: 400;
+    line-height: 1.25;
+    overflow-wrap: break-word !important;
+    word-wrap: break-word !important;
+    word-break: break-word !important;">Technical Lead - Programador Fullstack</h2>
 
-<!--
-**yosusanz/yosusanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pasai Donibane, País Vasco / Euskadi, España
