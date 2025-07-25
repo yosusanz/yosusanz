@@ -1,4 +1,8 @@
-<img src="./images/banner.png" alt="banner yosusanz" width="846" />
+<div style="position:relative">
+  <img src="./images/banner.png" alt="banner yosusanz" width="846" />
+  <img src="./images/linkedin-button.png" alt="linkedin yosusanz" width="94" />
+</div>
+
 
 <!--
 **yosusanz/yosusanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
