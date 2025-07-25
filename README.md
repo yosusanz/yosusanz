@@ -1,9 +1,6 @@
-<div style="position: relative; display: inline-block;">
+<a href="https://www.linkedin.com/in/yosusanz/" target="_blank">
   <img src="./images/banner.png" alt="banner yosusanz" width="846" />
-  <a href="https://www.linkedin.com/in/yosusanz/" target="_blank" style="position: absolute; top: 20px; right: 20px;">
-    <img src="./images/linkedin-button.png" alt="linkedin yosusanz" width="94" />
-  </a>
-</div>
+</a>
 
 
 <!--
