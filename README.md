@@ -46,7 +46,7 @@
   </ul>
 
   <h3>🔗 Recursos públicos relacionados</h3>
-  <a href="https://ingevital.com/" target="_blank"<img src="./images/iv-web.png" alt="Web pública del proyecto" width="108" /></a>
+  <a href="https://ingevital.com/" target="_blank"><img src="./images/iv-web.png" alt="Web pública del proyecto" width="108" /></a>
   <a href="https://www.youtube.com/watch?v=xSD7zSjGjf8" target="_blank"><img src="./images/iv-video.png" alt="Video público explicativo del proyecto" width="108" /></a>
 
 </section>
