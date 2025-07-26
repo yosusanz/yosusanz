@@ -35,7 +35,7 @@
     <li>Implementación de un sistema modular, escalable y eficiente.</li>
     <li>Desarrollo de herramientas de visualización en tiempo real para uso comercial y técnico.</li>
     <li>Creación de mecanismos de protección anticopia y control de despliegues.</li>
-    <li>Desarrollo del sistema productivo, bajando tiempos de 6 horas a 1 minuto por dispositivo fabricado.</li>
+    <li>Desarrollo del sistema productivo, trazable y bajando tiempos de 6 horas a 1 minuto por dispositivo fabricado y listo para usar.</li>
   </ul>
 
   <h3>📈 Resultados</h3>
@@ -51,8 +51,61 @@
 
 </section>
 
-<h2>Tecnología y stack</h2>
+<h1>Tecnología y stack</h1>
+<section>
+  <p>Mi enfoque combina experiencia en desarrollo fullstack, diseño de arquitecturas robustas, escalables y siempre con el foco en el futuro de los proyectos.</p>
 
-<h2>Testimonios / recomendaciones</h2>
+  <h3>💻 Backend</h3>
+  <ul>
+    <li>.NET Framework / .NET Core (VB.NET)</li>
+    <li>PHP (sin frameworks, arquitectura limpia)</li>
+    <li>APIs REST, tareas en background, control de procesos</li>
+  </ul>
 
-<h2>Contacto</h2>
+  <h3>🖥️ Frontend</h3>
+  <ul>
+    <li>HTML, CSS, JavaScript</li>
+    <li>Diseño funcional y enfoque minimalista</li>
+  </ul>
+
+  <h3>🗄️ Bases de datos</h3>
+  <ul>
+    <li>MariaDB / MySQL, SQL Server</li>
+    <li>Optimización de rendimiento: técnicas de segmentación, índices, tablas en memoria</li>
+  </ul>
+
+  <h3>🐧 Infraestructura y DevOps</h3>
+  <ul>
+    <li>Linux Debian – scripting y administración de sistemas</li>
+    <li>Docker – contenedores para backend y despliegues rápidos</li>
+    <li>NGINX, Apache – balanceo y servidores web</li>
+  </ul>
+
+  <h3>📦 Otros</h3>
+  <ul>
+    <li>GitHub – versionado, ramas limpias y control de cambios</li>
+    <li>Diseño e ingeniería inversa de sistemas heredados</li>
+    <li>Protecciones anticopia, demos, herramientas de análisis y trazabilidad</li>
+  </ul>
+
+  <h3>🧠 Adaptabilidad tecnológica</h3>
+  <p>
+    Aunque cuento con un stack base muy consolidado, me resulta natural aprender nuevas tecnologías, adaptarme a entornos existentes
+    o evolucionar arquitecturas heredadas. En cada proyecto, pongo el foco en entender el contexto técnico y funcional para construir soluciones sostenibles y con visión a largo plazo.
+  </p>
+</section>
+
+<h1>Testimonios / recomendaciones</h1>
+
+<h1>Contacto</h1>
+<section>
+  <p>Abierto a crear conexiones profesionales, compartir experiencias y conversar sobre tecnología, arquitectura de software y liderazgo técnico.</p> 
+
+  <ul>
+    <li><strong>Email:</strong> <a href="mailto:yosu@yosusanz.com">yosu@yosusanz.com</a></li>
+    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yosusanz/" target="_blank">linkedin.com/in/yosusanz</a></li>
+  </ul>
+
+  <p>Si crees que podemos coincidir profesionalmente, estaré encantado de mantener el contacto.</p>
+  <p>La diferencia entre el silencio y una conversación comienza por un "hola". ¿Hablamos?</p>
+</section>
