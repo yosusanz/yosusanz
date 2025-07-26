@@ -6,14 +6,14 @@
 <br>
 <br>
 
-<h1>Proyectos destacados</h1>
+<h1>Proyecto destacado</h1>
 <section>
   <h2>Plataforma de monitorización y detección de caídas no intrusiva</h2>
 
   <p><strong>Rol:</strong> Tech Lead & Arquitecto de Solución<br>
      <strong>Periodo:</strong> 2022–2025<br>
      <strong>Sector:</strong> Salud – residencias, hospitales y hogares<br>
-     <strong>Stack:</strong> <img src="./images/icon-NETcore.svg" alt=".NET Core" width="22" />, <img src="./images/icon-php.svg" alt="PHP" width="22" />, <img src="./images/icon-mariadb.svg" alt="MariaDB" width="64" />, <img src="./images/icon-nginx.svg" alt="NGINX" width="22" />, <img src="./images/icon-linux.svg" alt="Linux" width="22" />
+     <strong>Stack:</strong> <img src="./images/icon-NETcore.svg" alt=".NET Core" width="22" /> <img src="./images/icon-php.svg" alt="PHP" width="22" /> <img src="./images/icon-mariadb.svg" alt="MariaDB" width="64" /> <img src="./images/icon-nginx.svg" alt="NGINX" width="22" /> <img src="./images/icon-linux.svg" alt="Linux" width="22" />
   </p>
 
   <h3>🧩 Descripción general</h3>
@@ -47,8 +47,8 @@
 
   <h3>🔗 Recursos públicos relacionados</h3>
   <ul>
-    <li><a href="https://ingevital.com/" target="_blank">Web oficial del sistema con información pública</a></li>
-    <li><a href="https://www.youtube.com/watch?v=xSD7zSjGjf8" target="_blank">Vídeo de presentación disponible en el canal del proyecto</a></li>
+    <li><a href="https://ingevital.com/" target="_blank"<img src="./images/iv-web.png" alt="Web pública del proyecto" width="108" /></a></li>
+    <li><a href="https://www.youtube.com/watch?v=xSD7zSjGjf8" target="_blank"><img src="./images/iv-video.png" alt="Video público explicativo del proyecto" width="108" /></a></li>
   </ul>
 </section>
 
