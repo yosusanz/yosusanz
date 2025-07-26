@@ -2,7 +2,7 @@
   <img src="./images/banner.png" alt="banner yosusanz" width="846" />
 </a>
 
-<p><strong>Desarrollador y líder tecnológico</strong>strong> con experiencia en aplicaciones de escritorio y web. Apasionado por la innovación y la resolución de problemas, me destaco por mi capacidad de adaptación, aprendizaje continuo y toma de decisiones estratégicas. Siempre dispuesto a <strong>afrontar nuevos desafíos</strong>.</p>
+<p><strong>Desarrollador y líder tecnológico</strong> con experiencia en aplicaciones de escritorio y web. Apasionado por la innovación y la resolución de problemas, me destaco por mi capacidad de adaptación, aprendizaje continuo y toma de decisiones estratégicas. Siempre dispuesto a <strong>afrontar nuevos desafíos</strong>.</p>
 <br>
 <br>
 
@@ -18,8 +18,8 @@
 
   <h3>🧩 Descripción general</h3>
   <p>
-    <strong>Diseñé y lideré</strong> el desarrollo de una solución innovadora para la monitorización de personas en entornos asistenciales y domésticos,
-    capaz de detectar caídas, signos vitales y patrones de movimiento sin necesidad de dispositivos físicos sobre el cuerpo ni cámaras en la estancia.
+    <strong>Diseñé y lideré</strong> el desarrollo de una solución innovadora para la <strong>monitorización no intrusiva, de personas en entornos asistenciales y domésticos</strong>,
+    capaz de detectar caídas, signos vitales, posición y patrones de movimiento <strong>sin necesidad de dispositivos físicos sobre el cuerpo, ataduras, ni cámaras en la estancia</strong>.
   </p>
   <ul>
     <li><strong>Dispositivos inteligentes</strong> conectados que analizaban datos biométricos y de movimiento.</li>
