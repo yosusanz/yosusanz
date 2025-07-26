@@ -105,5 +105,5 @@
   </ul>
 
   <p>Si crees que podemos coincidir profesionalmente, estaré encantado de mantener el contacto.</p>
-  <p>La diferencia entre el silencio y una conversación comienza por un "hola". <strong>¿Hablamos?</strong>strong></p>
+  <p>La diferencia entre el silencio y una conversación comienza por un "hola". <strong>¿Hablamos?</strong></p>
 </section>
