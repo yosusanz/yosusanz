@@ -8,12 +8,12 @@
 
 <h1>Proyectos destacados</h1>
 <section>
-  <h2>🩺 Plataforma de monitorización no intrusiva</h2>
+  <h2>Plataforma de monitorización y detección de caídas no intrusiva</h2>
 
   <p><strong>Rol:</strong> Tech Lead & Arquitecto de Solución<br>
      <strong>Periodo:</strong> 2022–2025<br>
      <strong>Sector:</strong> Salud – residencias, hospitales y hogares<br>
-     <strong>Stack:</strong> <img src="./images/icon-NETcore.svg" alt=".NET Core" width="32" />, <img src="./images/icon-php.svg" alt="PHP" width="32" />, <img src="./images/icon-mariadb.svg" alt="MariaDB" width="32" />, <img src="./images/icon-nginx.svg" alt="NGINX" width="32" />, <img src="./images/icon-linux.svg" alt="Linux" width="32" />
+     <strong>Stack:</strong> <img src="./images/icon-NETcore.svg" alt=".NET Core" width="22" />, <img src="./images/icon-php.svg" alt="PHP" width="22" />, <img src="./images/icon-mariadb.svg" alt="MariaDB" width="64" />, <img src="./images/icon-nginx.svg" alt="NGINX" width="22" />, <img src="./images/icon-linux.svg" alt="Linux" width="22" />
   </p>
 
   <h3>🧩 Descripción general</h3>
