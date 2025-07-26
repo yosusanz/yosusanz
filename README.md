@@ -8,7 +8,7 @@
 
 <h1>Proyecto en desarrollo</h1>
 <section>
-  <img src="./images/proyecto-actual-distintivo-ambiental.png" alt="Linux" height="32" title="Proyecto Obtención distintivo ambiental"/>
+  <img src="./images/proyecto-actual-distintivo-ambiental.png" alt="Proyecto Obtención distintivo ambiental" width="846"/>
   <p>Actualmente estoy desarrollando un sistema basado en <strong>deep learning</strong> capaz de obtener el <strong>distintivo ambiental</strong> de un vehículo (CERO, ECO, C, B) a partir de una fotografía de su matrícula.</p>
   <p>El objetivo es demostrar cómo combinar <strong>Computer Vision, OCR y procesamiento eficiente</strong> de datos para resolver un problema real con múltiples retos técnicos: detección precisa, OCR robusto, alto rendimiento y validación con fuentes externas.</p>
 </section>
