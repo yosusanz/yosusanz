@@ -51,6 +51,7 @@
 
 </section>
 
+<br>
 <h1>Tecnología y stack</h1>
 <section>
   <p>Mi enfoque combina experiencia en desarrollo fullstack, diseño de <strong>arquitecturas robustas, escalables y siempre con el foco en el futuro</strong> de los proyectos.</p>
@@ -95,6 +96,7 @@
   </p>
 </section>
 
+<br>
 <h1>Contacto</h1>
 <section>
   <p>Abierto a <strong>crear conexiones profesionales</strong>, compartir experiencias y conversar sobre tecnología, arquitectura de software y liderazgo técnico.</p> 
@@ -105,5 +107,6 @@
   </ul>
 
   <p>Si crees que podemos coincidir profesionalmente, estaré encantado de mantener el contacto.</p>
-  <p>La diferencia entre el silencio y una conversación comienza por un "hola". <strong>¿Hablamos?</strong></p>
+  <br>
+  <h3 align="center">La diferencia entre el silencio y una conversación comienza por un "hola". <strong>¿Hablamos?</strong></h3>
 </section>
