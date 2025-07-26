@@ -13,7 +13,8 @@
   <p><strong>Rol:</strong> Tech Lead & Arquitecto de Solución<br>
      <strong>Periodo:</strong> 2022–2025<br>
      <strong>Sector:</strong> Salud – residencias, hospitales y hogares<br>
-     <strong>Stack:</strong> <img src="./images/icon-linux.svg" alt="Linux" height="22" title="Debian Linux"/> <img src="./images/icon-NETcore.svg" alt=".NET Core" height="22" title=".NET Core"/> <img src="./images/icon-php.svg" alt="PHP" height="22" title="PHP 8.2" /> <img src="./images/icon-mariadb.svg" alt="MariaDB" height="22" title="MariaDB"/> <img src="./images/icon-nginx.svg" alt="NGINX" height="22" title="NGINX"/> <img src="./images/icon-html.svg" alt="HTML" height="22" title="HTML 5"/> <img src="./images/icon-js.svg" alt="JS" height="22" title="Vanilla JS"/>
+     <strong>Stack:</strong><br>
+      <p align="center"><img src="./images/icon-linux.svg" alt="Linux" height="32" title="Debian Linux"/> <img src="./images/icon-NETcore.svg" alt=".NET Core" height="32" title=".NET Core"/> <img src="./images/icon-php.svg" alt="PHP" height="32" title="PHP 8.2" /> <img src="./images/icon-mariadb.svg" alt="MariaDB" height="32" title="MariaDB"/> <img src="./images/icon-nginx.svg" alt="NGINX" height="32" title="NGINX"/> <img src="./images/icon-html.svg" alt="HTML" height="32" title="HTML 5"/> <img src="./images/icon-js.svg" alt="JS" height="32" title="Vanilla JS"/></p>
   </p>
 
   <h3>🧩 Descripción general</h3>
