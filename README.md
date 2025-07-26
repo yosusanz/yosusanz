@@ -3,8 +3,10 @@
 </a>
 
 <p>Desarrollador y líder tecnológico con experiencia en aplicaciones de escritorio y web. Apasionado por la innovación y la resolución de problemas, me destaco por mi capacidad de adaptación, aprendizaje continuo y toma de decisiones estratégicas. Siempre dispuesto a afrontar nuevos desafíos.</p>
+<br>
+<br>
 
-<h2>Proyectos destacados</h2>
+<h1>Proyectos destacados</h1>
 <section>
   <h2>🩺 Proyecto destacado: Plataforma de monitorización no intrusiva</h2>
 
