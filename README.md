@@ -8,7 +8,7 @@
 
 <h1>Proyecto en desarrollo</h1>
 <section>
-  <img src="./images/proyecto-actual-distintivo-ambiental.png" alt="Proyecto Obtención distintivo ambiental" width="846"/>
+  <img src="https://github.com/yosusanz/yosusanz/blob/main/images/distintivo-ambiental/banner.png?raw=true" alt="Proyecto Obtención distintivo ambiental" width="846"/>
   <p align="center">Debian Linux | NGINX | PHP | MariaDB | Python | HTML 5 | JS</p>
   <br>
   <p>Actualmente estoy desarrollando un sistema basado en <strong>deep learning</strong> capaz de obtener el <strong>distintivo ambiental</strong> de un vehículo (CERO, ECO, C, B) a partir de una fotografía de su matrícula.</p>
