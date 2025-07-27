@@ -13,6 +13,7 @@
   <br>
   <p>Actualmente estoy desarrollando un sistema basado en <strong>deep learning</strong> capaz de obtener el <strong>distintivo ambiental</strong> de un vehículo (CERO, ECO, C, B) a partir de una fotografía de su matrícula.</p>
   <p>El objetivo es demostrar cómo combinar <strong>Computer Vision, OCR y procesamiento eficiente</strong> de datos para resolver un problema real con múltiples retos técnicos: detección precisa, OCR robusto, alto rendimiento y validación con fuentes externas.</p>
+  <a align="center" href="https://github.com/yosusanz/distintivoAmbiental" target="_blank">Enlace al proyecto</a>
 </section>
 
 <br>
