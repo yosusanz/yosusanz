@@ -2,7 +2,8 @@
   <img src="./images/banner.png" alt="banner yosusanz" width="846" />
 </a>
 
-<p><strong>Desarrollador y líder tecnológico</strong> con experiencia en aplicaciones de escritorio y web. Apasionado por la innovación y la resolución de problemas, me destaco por mi capacidad de adaptación, aprendizaje continuo y toma de decisiones estratégicas. Siempre dispuesto a <strong>afrontar nuevos desafíos</strong>.</p>
+<p><strong>Desarrollador y líder tecnológico</strong> con experiencia en soluciones software para escritorio, web y entornos industriales. Apasionado por la innovación y la resolución de problemas, me caracterizo por mi capacidad de adaptación, aprendizaje continuo y toma de decisiones estratégicas. He liderado equipos y proyectos, siempre con un <strong>enfoque práctico y orientado a resultados</strong>.</p>
+<p>Siempre dispuesto a <strong>afrontar nuevos desafíos</strong> y seguir <strong>creciendo profesionalmente</strong>.</p>
 <br>
 <br>
 
