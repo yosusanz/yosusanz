@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<h1>Último proyecto desarrollado</h1>
+<h1>Proyecto Deep Learning</h1>
 <section>
   <img src="https://github.com/yosusanz/yosusanz/blob/main/images/distintivo-ambiental/banner.png?raw=true" alt="Proyecto Obtención distintivo ambiental" width="846"/>
   <p align="center">Debian Linux | NGINX | PHP | MariaDB | Python | HTML 5 | JS</p>
